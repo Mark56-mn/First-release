@@ -1,0 +1,10 @@
+{
+  "name": "Memo",
+  "description": "A production-ready, mobile-first African airtime and data top-up platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
